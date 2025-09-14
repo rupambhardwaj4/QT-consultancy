@@ -25,7 +25,7 @@ This project is designed for showcasing a company’s profile, services, and con
 ---
 
 ## 📂 Project Structure
-
+```text
 company-website/
 │── assets/
 │ ├── images/
@@ -38,7 +38,7 @@ company-website/
 │ └── script.js
 │── index.html
 │── README.md
-
+```
 
 
 ---
