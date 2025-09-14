@@ -1,61 +1,74 @@
-# 🌐 QT Consultancy Website
+# 🌐  QT Consultancy
 
-A responsive and modern business website for **QT Consultancy (OPC) Pvt Ltd**, built with **HTML, CSS, and JavaScript**.  
-This website includes homepage, services, about us, contact form, and essential legal pages (**Privacy Policy** & **Terms & Conditions**).
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)]()
+
+A simple and responsive **Company Website** built with **HTML, CSS, and JavaScript**.  
+This project is designed for showcasing a company’s profile, services, and contact details.  
 
 ---
 
-## ✨ Features
-- ✅ Clean and professional UI design  
-- ✅ Responsive layout (mobile-first)  
-- ✅ Interactive navigation and contact form  
-- ✅ Legal compliance pages (Privacy Policy & Terms)  
-- ✅ SEO-friendly structure  
+## 🚀 Features
+- ✅ Responsive design (mobile & desktop)
+- ✅ Company profile and about section
+- ✅ Services showcase
+- ✅ Contact form with validation
+- ✅ Clean and customizable structure
 
 ---
 
 ## 📂 Project Structure
-qt-consultancy-website/
-├── index.html # Homepage
-├── privacypolicy.html # Privacy Policy page
-├── terms.html # Terms & Conditions page
-├── assets/
-│ ├── images/ # Logos, icons, and images
+
+company-website/
+│── assets/
+│ ├── images/
+│ │ ├── logo.png
+│ │ ├── banner.png
+│ │ └── about.png
 │ ├── css/
-│ │ └── styles.css # Main stylesheet
+│ │ └── style.css
 │ └── js/
-│ └── script.js # Main JavaScript file
+│ └── script.js
+│── index.html
+│── README.md
+
 
 
 ---
 
-## 🚀 Getting Started
+## 🖼️ Preview  
 
-### 1. Clone the repository
-```bash
-git clone https://github.com/rupambhardwaj4/QT-consultancy.git
-cd QT-consultancy
- ```
+### 🔹 Homepage  
+![Homepage](./assets/images/banner.png)  
 
-##🛠️ Built With
+### 🔹 Service Section  
+![About](./assets/images/about.png)  
 
-HTML5 – Structure
+### 🔹 Company Logo  
+![Logo](./assets/images/logo.png)  
 
-CSS3 – Styling & Responsive Layout
+---
 
-JavaScript – Interactivity
+## 🛠️ Built With
+- **HTML5** – Page structure  
+- **CSS3** – Styling & responsiveness  
+- **JavaScript** – Dynamic interactions  
 
+---
+
+## 📥 Installation & Usage
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/rupambhardwaj4/QT-consultancy.git
+   cd QT-consultancy
+   ```
 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
+Feel free to open a pull request.
 
-Fork the repo
+⭐ Show Your Support
 
-Create your feature branch (git checkout -b feature/NewFeature)
-
-Commit your changes (git commit -m 'Add new feature')
-
-Push to the branch (git push origin feature/NewFeature)
-
-Open a Pull Request
-
+If you like this project, please give it a star ⭐ on GitHub!
